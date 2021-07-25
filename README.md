@@ -42,6 +42,7 @@ The purpose of this analysis was to uphold state state testing standards by elim
   * * Challenge
 ![Reading Scores Challenge](https://user-images.githubusercontent.com/84201082/126916658-53f84395-73ee-4306-b198-44875a3232bd.png)
 
+
   * Scores by school spending
   ![School Spending Module](https://user-images.githubusercontent.com/84201082/126916588-ffc7eec3-f474-417b-91fe-910760100f8c.png)
   
@@ -60,4 +61,4 @@ The purpose of this analysis was to uphold state state testing standards by elim
 ![School Type Challenge](https://user-images.githubusercontent.com/84201082/126901672-a5fb7331-87f2-42c9-8c92-2087d56f9c16.png)
 
 ## District Analysis Summary
-4 changes in updated analysis after updating ninth grade scores at THS with NaNs 
+There was minimal amount of impact by removing the few hundred students that were in 9th grade.   Despite the claims of potential acedemic dishonesty I did not discover anythng specific to corroberate the claim.   The THS charter school was among one of the smallest within the all over sample size.   However the charter schools did seem to rank higher in terms if all over performance in terms of the summary snapshots of grades.   That being said they have much smaller class sizes and dedicate more money per head to each individual.
