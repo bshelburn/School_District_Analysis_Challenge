@@ -13,6 +13,8 @@ The purpose of this analysis was to uphold state state testing standards by elim
   * Votes and Percentage By County
 
 
+https://github.com/bshelburn/School_District_Analysis_Challenge/blob/main/Resources/District%20Summary%20Challenge.png
+
 **School Summary Effects**
 
 **Effects of Overall THS Performance**
