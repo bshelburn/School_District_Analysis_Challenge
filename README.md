@@ -30,15 +30,34 @@ The purpose of this analysis was to uphold state state testing standards by elim
 
 **Effects of Overall THS Performance**
   * Math and reading scores by grade
+  * * Original
+![Math Scores Module](https://user-images.githubusercontent.com/84201082/126916616-6bccc40c-3482-4112-ace2-6994bcd06758.png)
+
+  * * Original
+![Reading Scores Module](https://user-images.githubusercontent.com/84201082/126916635-fddbaba5-fe64-4bec-a542-ebd39f46d66b.png)
+
+  * * Challenge  
+![Math Scores Challenge](https://user-images.githubusercontent.com/84201082/126916648-bf42217a-36e0-400e-a017-e244d79f98be.png)
+
+  * * Challenge
+![Reading Scores Challenge](https://user-images.githubusercontent.com/84201082/126916658-53f84395-73ee-4306-b198-44875a3232bd.png)
+
   * Scores by school spending
+  ![School Spending Module](https://user-images.githubusercontent.com/84201082/126916588-ffc7eec3-f474-417b-91fe-910760100f8c.png)
+  
   * Scores by school size
-  *
-  * Scores by school type
+  * * Original
+  ![School Size Module](https://user-images.githubusercontent.com/84201082/126916456-ba872b09-26f8-4921-8a83-7fc863488fa8.png)
+
+  * * Challenge
+  ![School Size Challenge](https://user-images.githubusercontent.com/84201082/126916463-c4a4a106-737c-4d7a-bceb-41d0a554d575.png)
+
+  * * Scores by school type
   * * Original
 ![School Type Module](https://user-images.githubusercontent.com/84201082/126901663-9bbf172c-c14a-4fa1-8c75-665526501cad.png)
+
+  * * Challenge
 ![School Type Challenge](https://user-images.githubusercontent.com/84201082/126901672-a5fb7331-87f2-42c9-8c92-2087d56f9c16.png)
-
-
 
 ## District Analysis Summary
 4 changes in updated analysis after updating ninth grade scores at THS with NaNs 
